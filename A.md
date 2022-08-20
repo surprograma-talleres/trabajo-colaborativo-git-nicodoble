@@ -7,4 +7,4 @@ Ut elit turpis, fermentum non urna sed, feugiat cursus velit.
 
 # ⚠️⚠️ Este es el archivo de **A** ⚠️⚠️
 
-hola soy nicolas ramirez 
+Nico Diaz soy el a y lo modifique
