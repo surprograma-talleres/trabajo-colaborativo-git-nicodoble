@@ -1,6 +1,6 @@
 🌐 ¡Hola mundo!
 
-👋 Me llamo _COMPLETAR_
-🗺️ y actualmente estoy en _COMPLETAR_.
+👋 Me llamo nicolás
+🗺️ y actualmente estoy en merlo.
 
-📆 En los próximos días, me gustaría _COMPLETAR_.
+📆 En los próximos días, me gustaría madrid.
